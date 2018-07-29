@@ -6,7 +6,7 @@ As part of the FEND scholarship by Udacity and Google, I had to recreate a simil
 
 1. Clone the following using GIT
    
-	-git clone https://github.com/theclavedj/thearga.git
+	-git clone https://github.com/theclavedj/thearcadegame.git
 
 2. Load index.html in your favorite browser.
 
@@ -17,7 +17,7 @@ As part of the FEND scholarship by Udacity and Google, I had to recreate a simil
 
 The main part of the game is to reach the water, which is above the canvas. For you to reach the water, you need to avoid all the bugs and avoid colliding them using the arrows from your keyboard (up,down,left,right). Also, the game does not end -for the moment- so you can play for hours if you want.
  
-Click in the following link to play: https://theclavedj.github.io/thearga/
+Click in the following link to play: https://theclavedj.github.io/thearcadegame/
 
 ## FAQ:
 
